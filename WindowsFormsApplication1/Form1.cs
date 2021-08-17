@@ -60,7 +60,7 @@ namespace WindowsFormsApplication1
         }
 
         private void buttonCalc_Click(object sender, EventArgs e)
-        { 
+        {  
             string tb1, tb2;
             double tmpr1, tmpr2, data1, data2 ;
 
